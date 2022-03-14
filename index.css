@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+}
+
+#wheather_data{
+    border: 2px solid black;
+    height:250px;
+    width: 250px;
+    
+}
+
+.header{
+    background-color: olive;
+    height: 70px;
+    text-align: center;
+}
+
+#search_btn{
+    border: transparent;
+    font-weight: bold;
+    height: 30px;
+}
+
+.header:hover{
+    color: red;
+}
+
+#input_field{
+    background-color: beige;
+    border: red;
+    height: 30px;
+}
